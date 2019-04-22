@@ -3,7 +3,7 @@ package exif
 import (
 	"fmt"
 
-	"hawx.me/code/img/exif"
+	"github.com/Nyarum/img/exif"
 )
 
 func ExampleReading() {

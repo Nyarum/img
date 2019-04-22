@@ -3,10 +3,10 @@ package cmd
 import (
 	"image"
 
-	"hawx.me/code/hadfield"
-	"hawx.me/code/img/channel"
-	"hawx.me/code/img/levels"
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/hadfield"
+	"github.com/Nyarum/img/channel"
+	"github.com/Nyarum/img/levels"
+	"github.com/Nyarum/img/utils"
 )
 
 var (

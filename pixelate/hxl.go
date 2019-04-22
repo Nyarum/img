@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/utils"
 )
 
 // Halves the width of the double-width image created by hxl to produce nice

@@ -6,8 +6,8 @@ import (
 	"image/color"
 	"math"
 
-	"hawx.me/code/img/greyscale"
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/greyscale"
+	"github.com/Nyarum/img/utils"
 )
 
 // Adjusts the gamma of the Image by the given value. A value less than 1.0

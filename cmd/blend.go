@@ -9,10 +9,10 @@ import (
 	"os"
 	"strings"
 
+	"github.com/Nyarum/hadfield"
+	"github.com/Nyarum/img/blend"
+	"github.com/Nyarum/img/utils"
 	"github.com/nfnt/resize"
-	"hawx.me/code/hadfield"
-	"hawx.me/code/img/blend"
-	"hawx.me/code/img/utils"
 )
 
 var (

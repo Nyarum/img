@@ -10,8 +10,8 @@ import (
 	"math"
 	"math/rand"
 
-	"hawx.me/code/img/altcolor"
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/altcolor"
+	"github.com/Nyarum/img/utils"
 )
 
 // Blender takes two colours (base and blend, respectively) and returns another

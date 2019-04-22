@@ -3,8 +3,8 @@ package vibrance
 
 import (
 	"github.com/lucasb-eyer/go-colorful"
-	"hawx.me/code/img/channel"
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/channel"
+	"github.com/Nyarum/img/utils"
 
 	"image"
 	"image/color"

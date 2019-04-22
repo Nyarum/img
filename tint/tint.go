@@ -6,7 +6,7 @@ import (
 	"image"
 	"image/color"
 
-	"hawx.me/code/img/blend"
+	"github.com/Nyarum/img/blend"
 )
 
 // Tint adds a colored tint to the image.

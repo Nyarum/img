@@ -1,7 +1,7 @@
 package levels
 
 import (
-	//	"hawx.me/code/img/utils"
+	//	"github.com/Nyarum/img/utils"
 	"fmt"
 	"strconv"
 	"strings"

@@ -7,7 +7,7 @@ import (
 	"math"
 	"os"
 
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/utils"
 )
 
 type Style float64

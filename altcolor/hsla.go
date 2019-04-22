@@ -8,7 +8,7 @@ import (
 	"image/color"
 	"math"
 
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/utils"
 )
 
 // HSLA represents a colour with hue, saturation, lightness and alpha channels.

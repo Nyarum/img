@@ -1,9 +1,9 @@
 package cmd
 
 import (
-	"hawx.me/code/hadfield"
-	"hawx.me/code/img/shuffle"
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/hadfield"
+	"github.com/Nyarum/img/shuffle"
+	"github.com/Nyarum/img/utils"
 )
 
 var (

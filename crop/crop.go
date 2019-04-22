@@ -6,7 +6,7 @@ import (
 	"image/color"
 	"math"
 
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/utils"
 )
 
 // cropTo draws a new Image with pixels that have coordinates that when passed

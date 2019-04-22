@@ -1,4 +1,4 @@
-# img [![docs](http://godoc.org/hawx.me/code/img?status.svg)](http://godoc.org/hawx.me/code/img)
+# img [![docs](http://godoc.org/github.com/Nyarum/img?status.svg)](http://godoc.org/github.com/Nyarum/img)
 
 A collection of image manipulation tools. Each tool takes an input file from
 standard input, this needs to be in PNG, JPEG or GIF format. They output the
@@ -7,7 +7,7 @@ resulting image (by default in PNG format) to standard output.
 To install run,
 
 ``` bash
-$ go install hawx.me/code/img
+$ go install github.com/Nyarum/img
 ```
 
 You can then run `go help` and `go help [command]` for information.
@@ -43,9 +43,9 @@ example as,
 package main
 
 import (
-  "hawx.me/code/img/contrast"
-  "hawx.me/code/img/greyscale"
-  "hawx.me/code/img/tint"
+  "github.com/Nyarum/img/contrast"
+  "github.com/Nyarum/img/greyscale"
+  "github.com/Nyarum/img/tint"
 
   "image/png"
   "os"

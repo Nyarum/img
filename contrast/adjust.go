@@ -6,8 +6,8 @@ import (
 	"image/color"
 	"math"
 
-	"hawx.me/code/img/altcolor"
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/altcolor"
+	"github.com/Nyarum/img/utils"
 )
 
 const Epsilon = 1.0e-10

@@ -6,8 +6,8 @@ import (
 	"image"
 	"image/color"
 
-	"hawx.me/code/img/channel"
-	"hawx.me/code/img/utils"
+	"github.com/Nyarum/img/channel"
+	"github.com/Nyarum/img/utils"
 )
 
 // linearScale scales the value given so that the range min to max is scaled to
